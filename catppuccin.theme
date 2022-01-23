@@ -7,25 +7,25 @@
 # Use "start", "mid" and "end" for three color gradient
 
 # Main background, empty for terminal default, need to be empty if you want transparent background
-theme[main_bg]="#1e1d2f"
+theme[main_bg]="#1e1e2e"
 
 # Main text color
 theme[main_fg]="#d9e0ee"
 
 # Title color for boxes
-theme[title]="#d9e0ee"
+theme[title]="#c9cbff"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#96cdfb"
+theme[hi_fg]="#e8a2af"
 
 # Background color of selected item in processes box
-theme[selected_bg]="#302d41"
+theme[selected_bg]="#575268"
 
 # Foreground color of selected item in processes box
-theme[selected_fg]="#96cdfb"
+theme[selected_fg]="#d9e0ee"
 
 # Color of inactive/disabled text
-theme[inactive_fg]="#6e6c7e"
+theme[inactive_fg]="#c3bac6"
 
 # Color of text appearing on top of graphs, i.e uptime and current network graph scaling
 theme[graph_text]="#c3bac6"
@@ -53,7 +53,7 @@ theme[div_line]="#575268"
 
 # Temperature graph colors
 theme[temp_start]="#fae3b0"
-theme[temp_mid]="#f8bd95"
+theme[temp_mid]="#f8bd96"
 theme[temp_end]="#e8a2af"
 
 # CPU graph colors
