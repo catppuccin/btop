@@ -1,7 +1,7 @@
 theme[main_bg]="#303446"
 theme[main_fg]="#C6D0F5"
 theme[title]="#C6D0F5"
-theme[hi_fg]="#BABBF1"
+theme[hi_fg]="#8CAAEE"
 theme[selected_bg]="#51576D"
 theme[selected_fg]="#8CAAEE"
 theme[inactive_fg]="#838BA7"
