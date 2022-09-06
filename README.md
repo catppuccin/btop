@@ -11,16 +11,16 @@
     <a href="https://github.com/catppuccin/btop/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/btop?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/btop/main/assets/ss.jpeg"/>
-</p>
-
 ## Usage
 
-1. Clone this repository locally
-2. Copy `catppuccin.theme` to `$HOME/.config/btop/themes/`
-3. Launch btop and press <kbd>Esc</kbd> and select "Options"
-4. Pick Catppuccin as your color theme
+1. Clone this repository locally.
+2. Copy every theme to `/usr/share/btop/themes`. Run `sudo cp catppuccin* /usr/share/btop/themes`.
+3. Launch btop and press <kbd>Esc</kbd> and select "Options".
+4. Pick your favourite flavour as your color theme.
+
+|Catppuccin-Frappe 🪴|Catppuccin-Latte 🌻|Catppuccin-Machiatto 🌺|Catppuccin-Mocha 🌿|
+|--|--|--|--|
+|![img](assets/frappe.png)|![img](assets/latte.png)|![img](assets/machiatto.png)|![img](assets/mocha.png)|
 
 ## 💝 Thanks to
 
