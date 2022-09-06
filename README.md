@@ -20,7 +20,7 @@
 
 |Catppuccin-Frappe 🪴|Catppuccin-Latte 🌻|Catppuccin-Machiatto 🌺|Catppuccin-Mocha 🌿|
 |--|--|--|--|
-|![img](assets/frappe.png)|![img](assets/latte.png)|![img](assets/machiatto.png)|![img](assets/mocha.png)|
+|![img](https://raw.githubusercontent.com/jorgeloopzz/btop/main/assets/frappe.png)|![img](https://raw.githubusercontent.com/jorgeloopzz/btop/main/assets/latte.png)|![img](https://raw.githubusercontent.com/jorgeloopzz/btop/main/assets/machiatto.png)|![img](https://raw.githubusercontent.com/jorgeloopzz/btop/main/assets/mocha.png)|
 
 ## 💝 Thanks to
 
