@@ -11,6 +11,10 @@
     <a href="https://github.com/catppuccin/btop/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/btop?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/btop/main/assets/screenshot.webp"/>
+</p>
+
 ## Usage
 
 1. Clone this repository locally.
@@ -18,9 +22,22 @@
 3. Launch btop and press <kbd>Esc</kbd> and select "Options".
 4. Pick your favourite flavour as your color theme.
 
-|Catppuccin-Frappe 🪴|Catppuccin-Latte 🌻|Catppuccin-Machiatto 🌺|Catppuccin-Mocha 🌿|
-|--|--|--|--|
-|![img](https://raw.githubusercontent.com/jorgeloopzz/btop/main/assets/frappe.png)|![img](https://raw.githubusercontent.com/jorgeloopzz/btop/main/assets/latte.png)|![img](https://raw.githubusercontent.com/jorgeloopzz/btop/main/assets/machiatto.png)|![img](https://raw.githubusercontent.com/jorgeloopzz/btop/main/assets/mocha.png)|
+<details>
+<summary>🌻 Latte</summary>
+<img src="https://raw.githubusercontent.com/catppuccin/btop/main/assets/latte.webp"/>
+</details>
+<details>
+<summary>🪴 Frappé</summary>
+<img src="https://raw.githubusercontent.com/catppuccin/btop/main/assets/frappe.webp"/>
+</details>
+<details>
+<summary>🌺 Macchiato</summary>
+<img src="https://raw.githubusercontent.com/catppuccin/btop/main/assets/macchiato.webp"/>
+</details>
+<details>
+<summary>🌿 Mocha</summary>
+<img src="https://raw.githubusercontent.com/catppuccin/btop/main/assets/mocha.webp"/>
+</details>
 
 ## 💝 Thanks to
 
