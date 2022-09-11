@@ -20,7 +20,7 @@
 1. Clone this repository locally
 2. Copy all themes to `$XDG_CONFIG_HOME/btop/themes/`
 3. Launch btop and press <kbd>Esc</kbd> and select "Options"
-4. Pick your favourite flavour as your color theme
+4. Pick your favourite flavour as your colour theme
 
 Note: If `$XDG_CONFIG_HOME` is not set or empty, it defaults to `~/.config`
 
