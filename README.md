@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="/assets/ss.jpeg"/>
+        <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/preview.webp"/>
 </p>
 
 ## Previews
