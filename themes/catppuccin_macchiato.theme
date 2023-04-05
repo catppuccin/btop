@@ -53,7 +53,7 @@ theme[free_mid]="#b7bdf8"
 theme[free_end]="#8aadf4"
 
 # Mem/Disk cached meter (Sapphire -> Lavender)
-theme[cached_start]="7dc4e4"
+theme[cached_start]="#7dc4e4"
 theme[cached_mid]="#8aadf4"
 theme[cached_end]="#b7bdf8"
 
