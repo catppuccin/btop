@@ -37,6 +37,8 @@
 
 ## Usage
 
+> **Note** This theme is also compatible with [Bpytop](https://github.com/aristocratos/bpytop).
+
 1. Clone this repository locally
 2. Copy all themes to `$XDG_CONFIG_HOME/btop/themes/`
 3. Launch btop and press <kbd>Esc</kbd> and select "Options"
