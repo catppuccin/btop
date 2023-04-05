@@ -12,8 +12,27 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/btop/main/assets/ss.jpeg"/>
+  <img src="/assets/ss.jpeg"/>
 </p>
+
+## Previews
+
+<details>
+<summary>🌻 Latte</summary>
+<img src="/assets/Latte.png"/>
+</details>
+<details>
+<summary>🪴 Frappé</summary>
+<img src="/assets/Frappe.png"/>
+</details>
+<details>
+<summary>🌺 Macchiato</summary>
+<img src="/assets/Macchiato.png$
+</details>
+<details>
+<summary>🌿 Mocha</summary>
+<img src="/assets/Mocha.png"/>
+</details>
 
 ## Usage
 
@@ -25,7 +44,7 @@
 ## 💝 Thanks to
 
 - [Lokesh Krishna](https://github.com/lokesh-krishna)
-
+- [Kara Zajac](https://github.com/Arkwin
 &nbsp;
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
