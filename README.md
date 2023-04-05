@@ -1,9 +1,10 @@
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for Btop
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
+        <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
+        <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+        Catppuccin for <a href="https://github.com/aristocratos/btop">BTOP</a>
+        <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
+
 
 <p align="center">
     <a href="https://github.com/catppuccin/btop/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/btop?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship style=for-the-badge"></a>
@@ -27,7 +28,7 @@
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="/assets/Macchiato.png$
+<img src="/assets/Macchiato.png"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
