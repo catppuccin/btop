@@ -38,7 +38,7 @@ theme[proc_box]="#1e66f5" #Blue
 theme[div_line]="#9CA0B0"
 
 # Temperature graph color (Green -> Yellow -> Red)
-theme[temp_start]="#40a02b
+theme[temp_start]="#40a02b"
 theme[temp_mid]="#df8e1d"
 theme[temp_end]="#d20f39"
 
