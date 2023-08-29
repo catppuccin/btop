@@ -37,7 +37,7 @@
 
 ## Usage
 
-> **Note** This theme is also compatible with [Bpytop](https://github.com/aristocratos/bpytop).
+> **Note** This theme is also compatible with [Bpytop](https://github.com/aristocratos/bpytop) and [Bashtop](https://github.com/aristocratos/bashtop).
 
 1. Clone this repository locally
 2. Copy all themes to `$XDG_CONFIG_HOME/btop/themes/`
