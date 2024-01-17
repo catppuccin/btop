@@ -35,14 +35,15 @@
   <img src="https://raw.githubusercontent.com/catppuccin/btop/main//assets/mocha.webp"/>
 </details>
 
-## Usage
+## Installation
 
 > **Note** This theme is also compatible with [Bpytop](https://github.com/aristocratos/bpytop).
-
-1. Download the [latest release](https://github.com/catppuccin/btop/releases/latest) of the theme
-2. Copy all themes to `$XDG_CONFIG_HOME/btop/themes/` or `$XDG_CONFIG_HOME/bpytop/themes/`
-3. Launch btop/bpytop and press <kbd>Esc</kbd> and select "Options"
-4. Pick your favourite flavour as your colour theme
+1. Run the following command in your terminal to download the latest release:
+   ```shell
+   wget -qO- https://github.com/catppuccin/btop/releases/latest/download/themes.tar.gz | tar -xzv -C $XDG_CONFIG_HOME/btop/
+   ```
+4. Launch btop and press <kbd>Esc</kbd> and select "Options"
+5. Pick your favourite flavour as your colour theme
 
 Note: If `$XDG_CONFIG_HOME` is not set or empty, it defaults to `~/.config`
 
