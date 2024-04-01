@@ -1,0 +1,91 @@
+---
+whiskers:
+  version: 2.0.0
+  matrix:
+    - flavor
+  filename: "themes/catppuccin_{{ flavor.identifier }}.theme"
+---
+{%- set palette = flavor.colors -%}
+# Main background, empty for terminal default, need to be empty if you want transparent background
+theme[main_bg]="#{{ palette.base.hex }}"
+
+# Main text color
+theme[main_fg]="#{{ palette.text.hex }}"
+
+# Title color for boxes
+theme[title]="#{{ palette.text.hex }}"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#{{ palette.blue.hex }}"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#{{ palette.surface1.hex }}"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#{{ palette.blue.hex }}"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#{{ palette.overlay1.hex }}"
+
+# Color of text appearing on top of graphs, i.e uptime and current network graph scaling
+theme[graph_text]="#{{ palette.rosewater.hex }}"
+
+# Background color of the percentage meters
+theme[meter_bg]="#{{ palette.surface1.hex }}"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#{{ palette.rosewater.hex }}"
+
+# CPU, Memory, Network, Proc box outline colors
+theme[cpu_box]="#{{ palette.mauve.hex }}" #Mauve
+theme[mem_box]="#{{ palette.green.hex }}" #Green
+theme[net_box]="#{{ palette.maroon.hex }}" #Maroon
+theme[proc_box]="#{{ palette.blue.hex }}" #Blue
+
+# Box divider line and small boxes line color
+theme[div_line]="#{{ palette.overlay0.hex }}"
+
+# Temperature graph color (Green -> Yellow -> Red)
+theme[temp_start]="#{{ palette.green.hex }}"
+theme[temp_mid]="#{{ palette.yellow.hex }}"
+theme[temp_end]="#{{ palette.red.hex }}"
+
+# CPU graph colors (Teal -> Lavender)
+theme[cpu_start]="#{{ palette.teal.hex }}"
+theme[cpu_mid]="#{{ palette.sapphire.hex }}"
+theme[cpu_end]="#{{ palette.lavender.hex }}"
+
+# Mem/Disk free meter (Mauve -> Lavender -> Blue)
+theme[free_start]="#{{ palette.mauve.hex }}"
+theme[free_mid]="#{{ palette.lavender.hex }}"
+theme[free_end]="#{{ palette.blue.hex }}"
+
+# Mem/Disk cached meter (Sapphire -> Lavender)
+theme[cached_start]="#{{ palette.sapphire.hex }}"
+theme[cached_mid]="#{{ palette.blue.hex }}"
+theme[cached_end]="#{{ palette.lavender.hex }}"
+
+# Mem/Disk available meter (Peach -> Red)
+theme[available_start]="#{{ palette.peach.hex }}"
+theme[available_mid]="#{{ palette.maroon.hex }}"
+theme[available_end]="#{{ palette.red.hex }}"
+
+# Mem/Disk used meter (Green -> Sky)
+theme[used_start]="#{{ palette.green.hex }}"
+theme[used_mid]="#{{ palette.teal.hex }}"
+theme[used_end]="#{{ palette.sky.hex }}"
+
+# Download graph colors (Peach -> Red)
+theme[download_start]="#{{ palette.peach.hex }}"
+theme[download_mid]="#{{ palette.maroon.hex }}"
+theme[download_end]="#{{ palette.red.hex }}"
+
+# Upload graph colors (Green -> Sky)
+theme[upload_start]="#{{ palette.green.hex }}"
+theme[upload_mid]="#{{ palette.teal.hex }}"
+theme[upload_end]="#{{ palette.sky.hex }}"
+
+# Process box color gradient for threads, mem and cpu usage (Sapphire -> Mauve)
+theme[process_start]="#{{ palette.sapphire.hex }}"
+theme[process_mid]="#{{ palette.lavender.hex }}"
+theme[process_end]="#{{ palette.mauve.hex }}"
