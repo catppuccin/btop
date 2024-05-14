@@ -1,32 +1,32 @@
 # Main background, empty for terminal default, need to be empty if you want transparent background
-theme[main_bg]="#24273A"
+theme[main_bg]="#24273a"
 
 # Main text color
-theme[main_fg]="#CAD3F5"
+theme[main_fg]="#cad3f5"
 
 # Title color for boxes
-theme[title]="#CAD3F5"
+theme[title]="#cad3f5"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#8AADF4"
+theme[hi_fg]="#8aadf4"
 
 # Background color of selected item in processes box
-theme[selected_bg]="#494D64"
+theme[selected_bg]="#494d64"
 
 # Foreground color of selected item in processes box
-theme[selected_fg]="#8AADF4"
+theme[selected_fg]="#8aadf4"
 
 # Color of inactive/disabled text
-theme[inactive_fg]="#8087A2"
+theme[inactive_fg]="#8087a2"
 
 # Color of text appearing on top of graphs, i.e uptime and current network graph scaling
-theme[graph_text]="#F4DBD6"
+theme[graph_text]="#f4dbd6"
 
 # Background color of the percentage meters
-theme[meter_bg]="#494D64"
+theme[meter_bg]="#494d64"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#F4DBD6"
+theme[proc_misc]="#f4dbd6"
 
 # CPU, Memory, Network, Proc box outline colors
 theme[cpu_box]="#c6a0f6" #Mauve
@@ -35,7 +35,7 @@ theme[net_box]="#ee99a0" #Maroon
 theme[proc_box]="#8aadf4" #Blue
 
 # Box divider line and small boxes line color
-theme[div_line]="#6E738D"
+theme[div_line]="#6e738d"
 
 # Temperature graph color (Green -> Yellow -> Red)
 theme[temp_start]="#a6da95"
