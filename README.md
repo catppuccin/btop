@@ -13,43 +13,48 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/btop/main//assets/screenshot.webp"/>
+  <img src="assets/screenshot.webp"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-  <img src="https://raw.githubusercontent.com/catppuccin/btop/main//assets/latte.webp"/>
+<img src="assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-  <img src="https://raw.githubusercontent.com/catppuccin/btop/main//assets/frappe.webp"/>
+<img src="assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-  <img src="https://raw.githubusercontent.com/catppuccin/btop/main//assets/macchiato.webp"/>
+<img src="assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-  <img src="https://raw.githubusercontent.com/catppuccin/btop/main//assets/mocha.webp"/>
+<img src="assets/mocha.webp"/>
 </details>
 
 ## Usage
 
-> **Note** This theme is also compatible with [Bpytop](https://github.com/aristocratos/bpytop).
+> [!NOTE]
+> This theme is also compatible with [Bpytop](https://github.com/aristocratos/bpytop).
 
-1. Download the [latest release](https://github.com/catppuccin/btop/releases/latest) of the theme
-2. Copy all themes to `$XDG_CONFIG_HOME/btop/themes/` or `$XDG_CONFIG_HOME/bpytop/themes/`
-3. Launch btop/bpytop and press <kbd>Esc</kbd> and select "Options"
-4. Pick your favourite flavour as your colour theme
+1. Download the [latest release](https://github.com/catppuccin/btop/releases/latest) of the theme.
+2. Copy the flavor(s) of your choice to `$XDG_CONFIG_HOME/btop/themes/` (or `$XDG_CONFIG_HOME/bpytop/themes/`).
 
-Note: If `$XDG_CONFIG_HOME` is not set or empty, it defaults to `~/.config`
+> [!NOTE]
+> If `$XDG_CONFIG_HOME` is not set or empty, copy files to `~/.config` instead.
+
+4. Launch Btop/Bpytop, press <kbd>Esc</kbd>, and select "Options".
+5. Select your flavor of choice!
+
 
 ## 💝 Thanks to
 
 - [Lokesh Krishna](https://github.com/lokesh-krishna)
 - [Kara Zajac](https://github.com/Arkwin)
+
 &nbsp;
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
